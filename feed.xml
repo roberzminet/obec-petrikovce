@@ -3,10 +3,30 @@
     <title>Petrikovce</title>
     <link href="https://roberzminet.github.io/obec-petrikovce/feed.xml" rel="self" />
     <link href="https://roberzminet.github.io/obec-petrikovce" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-05-14T09:21:12+02:00</updated>
     <author>
         <name>Obec</name>
     </author>
     <id>https://roberzminet.github.io/obec-petrikovce</id>
 
+    <entry>
+        <title>test</title>
+        <author>
+            <name>Obec</name>
+        </author>
+        <link href="https://roberzminet.github.io/obec-petrikovce/test.html"/>
+        <id>https://roberzminet.github.io/obec-petrikovce/test.html</id>
+
+        <updated>2019-05-14T09:18:19+02:00</updated>
+            <summary>
+                <![CDATA[
+                    asfastatataewtet
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                asfastatataewtet
+            ]]>
+        </content>
+    </entry>
 </feed>
