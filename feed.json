@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Petrikovce",
+    "description": "",
+    "home_page_url": "https://roberzminet.github.io/obec-petrikovce",
+    "feed_url": "https://roberzminet.github.io/obec-petrikovce/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Obec"
+    },
+    "items": [
+    ]
+}

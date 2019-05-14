@@ -1,2 +1,0 @@
-# obec-petrikovce
-Petrikovce
